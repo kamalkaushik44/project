@@ -1,0 +1,1 @@
+print("kamal is B.Tech Engineer.")

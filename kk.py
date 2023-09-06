@@ -1,0 +1,1 @@
+print("parth is b-tech student")
